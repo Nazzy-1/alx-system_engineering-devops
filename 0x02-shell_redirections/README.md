@@ -1,1 +1,1 @@
-script that decodes acrostics that use the first letter of each line
+Replace all characters A and c from input to Z and e respectively
