@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "BEST variable created with value $BEST"
+echo "The value of the BEST variable is: $BEST"
