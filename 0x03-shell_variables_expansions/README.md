@@ -1,1 +1,1 @@
-script that prints a number with two decimal places, followed by a new line
+script that prints the result of POWER divided by DIVIDE, followed by a new line
