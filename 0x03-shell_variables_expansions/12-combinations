@@ -1,0 +1,2 @@
+#!/bin/bash
+eval echo {a..n}{a..z} {o}{a..n} {o}{p..z} {p}{a..z} {q}{a..z} {r}{a..z} {s}{a..z}
