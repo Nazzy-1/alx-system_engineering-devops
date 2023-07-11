@@ -1,2 +1,2 @@
 #!/bin/bash
-result=$(awk "BEGIN { printf \"%.2f\", $POWER / $DIVIDE }")
+echo $((${BREATH}**${LOVE}))
