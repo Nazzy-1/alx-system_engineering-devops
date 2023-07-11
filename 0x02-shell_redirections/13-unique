@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$word" fi done | sort
+ls -t | head
