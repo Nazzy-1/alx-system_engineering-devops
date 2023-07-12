@@ -1,1 +1,1 @@
-shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result
+script that prints the result of POWER divided by DIVIDE, followed by a new line
